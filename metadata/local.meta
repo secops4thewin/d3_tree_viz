@@ -1,0 +1,17 @@
+[app/ui]
+version = 7.0.0
+modtime = 1511082560.171188000
+
+[app/launcher]
+version = 7.0.0
+modtime = 1511082560.181900000
+
+[app/package/check_for_updates]
+version = 7.0.0
+modtime = 1511082560.189083000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 7.0.0
+modtime = 1511082939.315853000
